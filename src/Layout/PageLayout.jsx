@@ -1,4 +1,4 @@
-import TrendingVideos from "./TrendingVideos";
+import TrendingVideos from "../Components/TrendingVideos";
 import { MdTrendingUp } from "react-icons/md";
 import { MdOutlinePlaylistAdd } from "react-icons/md";
 import { FaVideo } from "react-icons/fa";

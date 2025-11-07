@@ -1,5 +1,5 @@
-import loadingimg from './assets/img/ComingSoon.jpeg'
-import  FooTer from "./Footer"
+import loadingimg from '../assets/img/ComingSoon.jpeg'
+import  FooTer from "../Components/Footer"
 function ComingSoon() {
 
 

@@ -1,5 +1,5 @@
 
-import pageloader from "./assets/img/pageloader3.gif";
+import pageloader from "../assets/img/pageloader3.gif";
 function Loader() {
 
     return (

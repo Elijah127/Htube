@@ -1,8 +1,8 @@
 // https://yt.artemislena.eu/api/v1/api/v1/search
 import { Footer } from "flowbite-react"
-import Header from "./Header"
-import FooTer from "./Footer"
-import PageLayout from "./PageLayout"
+import Header from "./Components/Header"
+import FooTer from "./Components/Footer"
+import PageLayout from "./Layout/PageLayout"
 
 function App() {
 

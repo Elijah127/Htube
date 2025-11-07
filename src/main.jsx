@@ -4,9 +4,9 @@ import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import {  createBrowserRouter, RouterProvider,} from "react-router-dom";
 import './index.css'
-import HtubeVideos from './HtubeVidoes'
-import ComingSoon from './ComingSoon';
-import VideoSearchPage from './VideoSearchPage';
+import HtubeVideos from './Pages/HtubeVidoes.jsx'
+import ComingSoon from '../src/Pages/ComingSoon.jsx';
+import VideoSearchPage from './Pages/VideoSearchPage.jsx';
 
   
 

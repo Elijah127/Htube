@@ -1,7 +1,7 @@
-import Header from "./Header";
+import Header from "../Components/Header";
 import { useParams } from "react-router-dom";
 import { useEffect, useState } from "react";
-import Loader from "./loader";
+// import Loader from "./loader";
 
 function HtubeVideos() {
 

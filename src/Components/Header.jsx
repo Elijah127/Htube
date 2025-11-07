@@ -1,9 +1,9 @@
 import { Input } from '@chakra-ui/react'
 import { Search2Icon } from '@chakra-ui/icons'
-import Logo from './assets/img/htudelogo-removebg-preview.png'
+import Logo from '../assets/img/htudelogo-removebg-preview.png'
 import { useEffect, useState, useRef } from 'react';
 import { Link } from "react-router-dom";
-import { useDebounce } from './hooks/debounce';
+import { useDebounce } from '../hooks/debounce';
 
 
 function Header() {
